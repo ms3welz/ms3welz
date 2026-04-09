@@ -52,33 +52,3 @@ Hi 👋, I'm Manuel Setyo
 ![CapCut](https://img.shields.io/badge/CapCut-FCFCFC?logo=capcut&logoColor=black)
 
 </div>
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-![Stats Graph](https://github-readme-stats.vercel.app/api?username=ms3welz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=true)
-![Languages Graph](https://github-readme-stats.vercel.app/api/top-langs?username=ms3welz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=true)
-![Streak Graph](https://streak-stats.demolab.com?user=ms3welz&locale=en&mode=daily&hide_border=true&border_radius=5)
-
-</div>
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app?username=ms3welz&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true)
-
-</div>
-
-### 🔥 GitHub Contributions
-
-<div align="center">
-
-![GitHub Contribution Graph](https://raw.githubusercontent.com/ms3welz/ms3welz/output/pacman-contribution-graph.svg "GitHub Contribution Graph")
-
-</div>
-
-### ❤️ Support Me
-
-You can help me by **donating** or supporting my work through sponsorships!
