@@ -1,5 +1,3 @@
-<!-- markdownlint-disable MD033 -->
-
 <h1 align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnBuOXVocGg4OG1lZXRtZW4zb2d2ZTBjeHJ3dHN6YnlpN2h5Z2s0YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jdPMeyv9rn0hZHh8n9/giphy.gif" height="150" alt="Man Code" />
 
@@ -11,7 +9,7 @@ Hi 👋, I'm Manuel Setyo
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-0077B5?style=for-the-badge&logo=invision&logoColor=white "LinkedIn")](https://www.linkedin.com/in/masemyid)
+[![LinkedIn](https://img.shields.io/badge/-0077B5?style=for-the-badge&logo=linkedin&logoColor=white "LinkedIn")](https://www.linkedin.com/in/masemyid)
 [![Instagram](https://img.shields.io/badge/-E4405F?style=for-the-badge&logo=instagram&logoColor=white "Instagram")](https://www.instagram.com/masemyid)
 [![Facebook](https://img.shields.io/badge/-1877F2?style=for-the-badge&logo=facebook&logoColor=white "Facebook")](https://www.facebook.com/profile.php?id=61553844653382)
 
@@ -43,15 +41,15 @@ Hi 👋, I'm Manuel Setyo
 ![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?logo=apachemaven&logoColor=white)
 ![NGINX](https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-8661c5?logo=dailydotdev&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-0098FF?logo=dailydotdev&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-8661c5?logo=visualstudio&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-0098FF?logo=visualstudiocode&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?logo=googlechrome&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Photoshop-00C8FF?logo=adonisjs&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?logo=adonisjs&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9A30FF?logo=adonisjs&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-00C8FF?logo=adobephotoshop&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?logo=adobeillustrator&logoColor=white)
+![Adobe Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9A30FF?logo=adobepremierepro&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white)
-![CapCut](https://img.shields.io/badge/CapCut-FCFCFC?logo=shortcut&logoColor=black)
+![CapCut](https://img.shields.io/badge/CapCut-FCFCFC?logo=capcut&logoColor=black)
 
 </div>
 
@@ -59,9 +57,9 @@ Hi 👋, I'm Manuel Setyo
 
 <div align="center">
 
-![Stats Graph](https://github-readme-stats.vercel.app/api?username=masemyid&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=true)
-![Languages Graph](https://github-readme-stats.vercel.app/api/top-langs?username=masemyid&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=true)
-![Streak Graph](https://streak-stats.demolab.com?user=masemyid&locale=en&mode=daily&hide_border=true&border_radius=5)
+![Stats Graph](https://github-readme-stats.vercel.app/api?username=ms3welz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=true)
+![Languages Graph](https://github-readme-stats.vercel.app/api/top-langs?username=ms3welz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=true)
+![Streak Graph](https://streak-stats.demolab.com?user=ms3welz&locale=en&mode=daily&hide_border=true&border_radius=5)
 
 </div>
 
@@ -69,7 +67,7 @@ Hi 👋, I'm Manuel Setyo
 
 <div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app?username=masemyid&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true)
+![GitHub Trophies](https://github-profile-trophy.vercel.app?username=ms3welz&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true)
 
 </div>
 
@@ -77,15 +75,10 @@ Hi 👋, I'm Manuel Setyo
 
 <div align="center">
 
-![GitHub Contribution Graph](https://raw.githubusercontent.com/masemyid/masemyid/output/pacman-contribution-graph.svg "GitHub Contribution Graph")
+![GitHub Contribution Graph](https://raw.githubusercontent.com/ms3welz/ms3welz/output/pacman-contribution-graph.svg "GitHub Contribution Graph")
 
 </div>
 
 ### ❤️ Support Me
 
 You can help me by **donating** or supporting my work through sponsorships!
-
-<!-- [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-FCC200?style=flat&logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/your-username)
-[![Buy Me a Coffee Dark](https://img.shields.io/badge/Buy%20me%20a%20coffee-000000?style=flat&logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/your-username) -->
-
-<!-- [Img Shield Icon](https://simpleicons.org/) -->
